@@ -7,6 +7,9 @@ No part of the project may be copied and/or distributed without
 the express permission of the course staff. Everyone is prohibited 
 from releasing their forks in any public places. */
 
+
+// Chau Chi Hang Derek
+// This is the CheckPoint 1 in ELEC3120 project
 #include <deque>
 #include <cstdlib>
 #include <cstring>
